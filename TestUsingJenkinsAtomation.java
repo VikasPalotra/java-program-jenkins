@@ -1,3 +1,4 @@
+import java.util.date;
 class TestUsingJenkinsAtomation
 {
 	public static void main(String args[])
@@ -5,5 +6,6 @@ class TestUsingJenkinsAtomation
 		System.out.println("Hello using jenkins");
 		System.out.println("git also");
 		System.out.println("firstcommit");
+		System.out.println("Date:"+new Date());
 	}
 }
