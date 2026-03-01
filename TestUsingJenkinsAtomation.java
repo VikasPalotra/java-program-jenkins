@@ -1,4 +1,4 @@
-import java.util.date;
+import java.util.Date;
 class TestUsingJenkinsAtomation
 {
 	public static void main(String args[])
