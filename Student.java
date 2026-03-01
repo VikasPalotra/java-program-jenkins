@@ -3,7 +3,7 @@ public class Student{
 	public Student()
 	{
 		System.out.println("Student class constructer");
-		sayHello();
+		
 	}
 	public void sayHello()
 	{
