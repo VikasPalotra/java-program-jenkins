@@ -7,5 +7,7 @@ class TestUsingJenkinsAtomation
 		System.out.println("git also");
 		System.out.println("firstcommit");
 		System.out.println("Date:"+new Date());
+		Student student=new Student();
+		student.sayHello();
 	}
 }
