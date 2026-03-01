@@ -4,5 +4,6 @@ class TestUsingJenkinsAtomation
 	{
 		System.out.println("Hello using jenkins");
 		System.out.println("git also");
+		System.out.println("firstcommit");
 	}
 }
